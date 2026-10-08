@@ -73,28 +73,28 @@ The global **Human-in-the-Loop Machine Learning and Data Annotation Market** is 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Label Studio](https://github.com/HumanSignal/label-studio)** [![Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white)](https://github.com/HumanSignal/label-studio/stargazers)  
-  **Multi-modal data annotation platform**, Apache-2.0 licensed. **28K+ GitHub stars** — **the most widely deployed open-source annotation platform** . **Supports image, video, text, audio, and time-series data** . **Active learning and model pre-annotation backends** . **ML backend integration for predictions** . **The definitive open-source human-in-the-loop annotation platform** . 🏷️ ⚡
+  **Multi-modal data annotation platform**, Apache-2.0 licensed. **28K+ GitHub_Stars** — **the most widely deployed open-source annotation platform** . **Supports image, video, text, audio, and time-series data** . **Active learning and model pre-annotation backends** . **ML backend integration for predictions** . **The definitive open-source human-in-the-loop annotation platform** . 🏷️ ⚡
 
 - **[Labelme](https://github.com/wkentaro/labelme)** [![Stars](https://img.shields.io/github/stars/wkentaro/labelme?style=social&color=white)](https://github.com/wkentaro/labelme/stargazers)  
-  **Graphical image annotation tool inspired by LabelMe**, GPL-3.0 licensed. **16K+ GitHub stars** — **the classic lightweight polygon annotation tool for computer vision** . **Supports polygon, rectangle, circle, line, and point labeling** . **JSON format exports for instant ML dataset preparation** . 🖼️ 🎨
+  **Graphical image annotation tool inspired by LabelMe**, GPL-3.0 licensed. **16K+ GitHub_Stars** — **the classic lightweight polygon annotation tool for computer vision** . **Supports polygon, rectangle, circle, line, and point labeling** . **JSON format exports for instant ML dataset preparation** . 🖼️ 🎨
 
 - **[CVAT (Computer Vision Annotation Tool)](https://github.com/cvat-ai/cvat)** [![Stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social&color=white)](https://github.com/cvat-ai/cvat/stargazers)  
-  **Powerful open-source computer vision annotation tool**, MIT licensed. **14K+ GitHub stars** — **the industry standard for high-speed video and image labeling** . **Automatic object tracking, semi-automatic segmentation with SAM**, and **collaborative multi-user workflows** . 📹 🚘
+  **Powerful open-source computer vision annotation tool**, MIT licensed. **14K+ GitHub_Stars** — **the industry standard for high-speed video and image labeling** . **Automatic object tracking, semi-automatic segmentation with SAM**, and **collaborative multi-user workflows** . 📹 🚘
 
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers)  
-  **Data-centric AI for data quality and label errors**, Python licensed. **11K+ GitHub stars** — **the standard for automated data quality improvement and label noise detection** . **Finds incorrect annotations, out-of-distribution data, and ambiguous samples** in text, tabular, and vision datasets . 🧹 🔍
+  **Data-centric AI for data quality and label errors**, Python licensed. **11K+ GitHub_Stars** — **the standard for automated data quality improvement and label noise detection** . **Finds incorrect annotations, out-of-distribution data, and ambiguous samples** in text, tabular, and vision datasets . 🧹 🔍
 
 - **[doccano](https://github.com/doccano/doccano)** [![Stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers)  
-  **Open-source text annotation tool for human annotators**, MIT licensed. **11K+ GitHub stars** — **lightweight web-based annotation for NLP** . **Supports Named Entity Recognition (NER), Sentiment Analysis, Text Classification, and Sequence-to-Sequence tasks** . 📝 💬
+  **Open-source text annotation tool for human annotators**, MIT licensed. **11K+ GitHub_Stars** — **lightweight web-based annotation for NLP** . **Supports Named Entity Recognition (NER), Sentiment Analysis, Text Classification, and Sequence-to-Sequence tasks** . 📝 💬
 
 - **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)** [![Stars](https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social&color=white)](https://github.com/CVHub520/X-AnyLabeling/stargazers)  
-  **Auto-labeling tool with Segment Anything (SAM) and YOLO integration**, GPL-3.0 licensed. **10K+ GitHub stars** — **AI-assisted auto-annotation desktop application** . **Integrates SOTA AI models for instant box, mask, and keypoint generation** . 🚀 🤖
+  **Auto-labeling tool with Segment Anything (SAM) and YOLO integration**, GPL-3.0 licensed. **10K+ GitHub_Stars** — **AI-assisted auto-annotation desktop application** . **Integrates SOTA AI models for instant box, mask, and keypoint generation** . 🚀 🤖
 
 - **[Argilla](https://github.com/argilla-io/argilla)** [![Stars](https://img.shields.io/github/stars/argilla-io/argilla?style=social&color=white)](https://github.com/argilla-io/argilla/stargazers)  
-  **Human and AI feedback platform**, Apache-2.0 licensed. **5K+ GitHub stars** — **the premier open-source platform for collecting human feedback and RLHF** . **Preference rankings (pairwise/multi-option) for LLM fine-tuning**, **data curation, and continuous monitoring** . **Seamless Hugging Face ecosystem integration** . 🤗 ⚖️
+  **Human and AI feedback platform**, Apache-2.0 licensed. **5K+ GitHub_Stars** — **the premier open-source platform for collecting human feedback and RLHF** . **Preference rankings (pairwise/multi-option) for LLM fine-tuning**, **data curation, and continuous monitoring** . **Seamless Hugging Face ecosystem integration** . 🤗 ⚖️
 
 - **[LabelLLM](https://github.com/OpenDataLab/LabelLLM)** [![Stars](https://img.shields.io/github/stars/OpenDataLab/LabelLLM?style=social&color=white)](https://github.com/OpenDataLab/LabelLLM/stargazers)  
   **Open-source data annotation platform for LLM development**, Apache-2.0 licensed. **Optimizes annotation for large language model instruction tuning** . **Multimodal data support**: text, audio, images, video . **AI-assisted pre-annotation and quality oversight** . 🦙 🗣️
@@ -106,7 +106,7 @@ The global **Human-in-the-Loop Machine Learning and Data Annotation Market** is 
   **Versatile and scalable annotation platform for 2D/3D data**, Apache-2.0 licensed. **Supports 2D images, video tracking, and 3D point cloud LiDAR labeling** . **Used to annotate BDD100K** . **Real-time multi-user collaboration** . 🚗 🌐
 
 - **[Orchestra](https://github.com/b12io/orchestra)** [![Stars](https://img.shields.io/github/stars/b12io/orchestra?style=social&color=white)](https://github.com/b12io/orchestra/stargazers)  
-  **Human-in-the-loop AI system for orchestrating expert teams**, Python licensed. **660+ GitHub stars** . **Orchestrates project workflows across human experts and machine algorithms** . 🎼 👥
+  **Human-in-the-loop AI system for orchestrating expert teams**, Python licensed. **660+ GitHub_Stars** . **Orchestrates project workflows across human experts and machine algorithms** . 🎼 👥
 
 - **[Tornado](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado)** [![Stars](https://img.shields.io/github/stars/slrbl/human-in-the-loop-machine-learning-tool-tornado?style=social&color=white)](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado/stargazers)  
   **Interactive Human-in-the-loop ML tool**, MIT licensed. **Label your dataset on the fly while training your model** through a clean web UI . **Supports structured tabular, text, and image data** . 🌪️ 💻
@@ -127,7 +127,7 @@ The global **Human-in-the-Loop Machine Learning and Data Annotation Market** is 
 Contributions are welcome! Follow these steps to submit new HITL platforms or open-source annotation software:
 
 1. 🍴 **Fork** the repository.
-2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure, star badge links, and formatting.
+2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure, Stars_Badge links, and formatting.
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
@@ -153,7 +153,7 @@ If you find this human-in-the-loop machine learning repository useful, please co
 
 - This is a **community-curated directory** — not exhaustive and not an official endorsement of listed software. ℹ️
 - **Amazon A2I provides managed human review workflows** with **per-task pricing and no upfront costs** . **Scale AI uses model debate with LLMs** to detect **4x more incorrect answers** . **SuperAnnotate Agent Hub reduces labeling time by up to 80%** .
-- **Label Studio is the leading open-source annotation platform** with **28K+ GitHub stars** . **CVAT is the premier tool for video object tracking** . **Argilla is the standard for open-source RLHF human feedback collection** .
+- **Label Studio is the leading open-source annotation platform** with **28K+ GitHub_Stars** . **CVAT is the premier tool for video object tracking** . **Argilla is the standard for open-source RLHF human feedback collection** .
 - **Open-source HITL tools require infrastructure deployment** — including backend databases (e.g., PostgreSQL, Redis, or Elasticsearch) and active learning server setups . **Always conduct a proof-of-concept (PoC) validation** for data security, annotation throughput, and model evaluation quality before deploying in production . 🔄
 
 ---
@@ -161,3 +161,12 @@ If you find this human-in-the-loop machine learning repository useful, please co
 <p align="center">
   <b>Made with ❤️ for ML engineers, data scientists, and open-source human-in-the-loop advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Human-In-The-Loop-Machine-Learning&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Human-In-The-Loop-Machine-Learning_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Human-In-The-Loop-Machine-Learning_growth.svg">
+  </picture>
+</a>
